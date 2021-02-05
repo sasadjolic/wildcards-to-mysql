@@ -1,7 +1,7 @@
 {
   "name": "wildcards-to-mysql",
   "description": "Converts wildcards to appropriate MySQL comparison operators",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": [
     "wildcards",
     "mysql"
