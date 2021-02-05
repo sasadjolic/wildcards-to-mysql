@@ -6,27 +6,11 @@
     "wildcards",
     "mysql"
   ],
-  "homepage": "https://github.com/sasadjolic/wildcards-to-mysql",
   "author": "Sasa Djolic <sasa.djolic@gmail.com> (https://www.linkedin.com/in/sasadjolic/)",
-  "maintainers": [
-    "Sasa Djolic <sasa.djolic@gmail.com> (https://www.linkedin.com/in/sasadjolic/)"
-  ],
-  "contributors": [
-    "Sasa Djolic <sasa.djolic@gmail.com> (https://www.linkedin.com/in/sasadjolic/)"
-  ],
-  "bugs": {
-    "url": "https://github.com/sasadjolic/wildcards-to-mysql/issues"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/sasadjolic/wildcards-to-mysql.git"
   },
-  "scripts": {},
-  "main": "./index",
-  "dependencies": {},
-  "engines": {
-    "node": "^10.7.0",
-    "npm": "^6.4.1"
-  }
+  "main": "./index"
 }
